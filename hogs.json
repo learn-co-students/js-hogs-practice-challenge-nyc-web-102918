@@ -100,22 +100,13 @@
       "image": "./hog-imgs/galaxy_note.jpg"
     },
     {
-      "id": 11,
-      "name": "Leggo My Eggo",
-      "specialty": "Babysitting",
-      "greased": false,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 3.3,
-      "highest medal achieved": "platinum",
-      "image": "./hog-imgs/leggo_my_eggo.jpg"
-    },
-    {
-      "id": 12,
-      "name": "Augustus Gloop",
-      "specialty": "Vacuum tubes",
+      "name": "oo hog",
+      "specialty": "oink",
       "greased": true,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
-      "highest medal achieved": "wood",
-      "image": "./hog-imgs/augustus_gloop.jpg"
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "3",
+      "highest medal achieved": "gold",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sus_scrofa_domesticus%2C_miniature_pig%2C_juvenile.jpg/1920px-Sus_scrofa_domesticus%2C_miniature_pig%2C_juvenile.jpg",
+      "id": 11
     }
   ]
 }
