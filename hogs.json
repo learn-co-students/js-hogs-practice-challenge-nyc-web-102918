@@ -116,6 +116,15 @@
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "name": "Arturo",
+      "specialty": "Cantar",
+      "greased": "greased",
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "123",
+      "highest medal achieved": "12",
+      "image": "https://www.bing.com/th?id=OIP.Tcyw6myeDZkGMDfc1aMRlAHaEK&w=300&h=168&c=7&o=5&pid=1.7",
+      "id": 13
     }
   ]
 }
