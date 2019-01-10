@@ -55,15 +55,6 @@
       "image": "./hog-imgs/sobriety.jpg"
     },
     {
-      "id": 6,
-      "name": "Rainbowdash",
-      "specialty": "Union Busting",
-      "greased": false,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 3.7,
-      "highest medal achieved": "wood",
-      "image": "./hog-imgs/rainbowdash.jpg"
-    },
-    {
       "id": 7,
       "name": "TruffleShuffle",
       "specialty": "Finding truffles",
@@ -116,6 +107,15 @@
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "name": "Babe",
+      "specialty": "Kickin Butt",
+      "greased": false,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "0.5",
+      "highest medal achieved": "Platinum",
+      "image": "https://cdn.someecards.com/posts/someone-tweeted-the-dark-meaning-behind-this-little-piggy-and-everyones-childhood-is-ruined-kr4.png",
+      "id": 13
     }
   ]
 }
